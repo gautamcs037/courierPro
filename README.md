@@ -52,7 +52,7 @@ Features
 - Secure login with role-based access control
 - Inline editing and management of multiple addresses
 - Create, accept, reject, or cancel shipments
-- Real-time shipment status tracking
+- Shipment status tracking
 - Clean and responsive dashboard interface
 
 Technology Stack
